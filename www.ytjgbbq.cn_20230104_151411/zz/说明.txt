@@ -1,3 +1,0 @@
-打开index.php
-
-phpqrcode.php文件不要改名,否则报错
